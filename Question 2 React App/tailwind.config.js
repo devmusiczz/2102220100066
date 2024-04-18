@@ -5,7 +5,18 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        accent: "#0989FF",
+        topHeadingPrimary: "#010f1c",
+        topHeadingSecondary: "#021d35",
+        pink: "#fd4b6b",
+      },
+    },
+    container: {
+      center: true,
+      padding: "15px"
+    },
   },
   plugins: [],
-}
+};
