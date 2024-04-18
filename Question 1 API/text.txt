@@ -1,0 +1,12 @@
+Registered to the API using Postman
+not able to do backend as of now but for sure i will learn this all in future. I am willing to learn.
+
+
+{"companyName":"buddyMart","clientID":"99df6e01-ba67-4ae3-974f-a556c248a5c2","clientSecret":"SnosLLkIgCiIBhfd","ownerName":"DevRathore","ownerEmail":"devrathoreyr_cse21@its.edu.in","rollNo":"2102220100066"}
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzEzNDE3Njc1LCJpYXQiOjE3MTM0MTczNzUsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6Ijk5ZGY2ZTAxLWJhNjctNGFlMy05NzRmLWE1NTZjMjQ4YTVjMiIsInN1YiI6ImRldnJhdGhvcmV5cl9jc2UyMUBpdHMuZWR1LmluIn0sImNvbXBhbnlOYW1lIjoiYnVkZHlNYXJ0IiwiY2xpZW50SUQiOiI5OWRmNmUwMS1iYTY3LTRhZTMtOTc0Zi1hNTU2YzI0OGE1YzIiLCJjbGllbnRTZWNyZXQiOiJTbm9zTExrSWdDaUlCaGZkIiwib3duZXJOYW1lIjoiRGV2UmF0aG9yZSIsIm93bmVyRW1haWwiOiJkZXZyYXRob3JleXJfY3NlMjFAaXRzLmVkdS5pbiIsInJvbGxObyI6IjIxMDIyMjAxMDAwNjYifQ.DerhRAoNFITAqC7Cxwg0Q6nB8isS450tjcJdpX0ZkEU",
+    "expires_in": 1713417675
+}
