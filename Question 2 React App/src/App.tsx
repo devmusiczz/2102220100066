@@ -1,11 +1,15 @@
-import React from 'react'
+import { Provider } from "react-redux"
+import { store } from "./redux/store"
+import Navbar from "./components/Navbar"
+
+
 
 const App = () => {
   return (
     <div>
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <Provider store={store}>
+      <Navbar/>
+    </Provider>
     </div>
   )
 }
